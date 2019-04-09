@@ -1,6 +1,7 @@
 <template>
   <div>
     <app-header></app-header>
+    <app-main></app-main>
     <h1 style="margin-top:20px; font-size: 30px;">This is index</h1>
   </div>
 </template>

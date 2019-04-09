@@ -2,7 +2,7 @@
   <nav class="navbar" >
     <div class="navbar-brand">
       <a href="@/index">
-      <img src="@/assets/tshibo-logo.png" width="190" alt="">
+      <img src="@/assets/tshibo-logo.png" style="margin-top:10px;" width="190" alt="">
       </a>
       <a role="button" class="navbar-burger " aria-label="menu" aria-expanded="false" data-target="navbarBasicExample">
         <span aria-hidden="true"><a href="#">About</a></span>
