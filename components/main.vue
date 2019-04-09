@@ -1,0 +1,3 @@
+<template>
+    <h3>This is the index</h3>
+</template>
